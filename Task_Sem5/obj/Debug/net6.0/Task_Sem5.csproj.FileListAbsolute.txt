@@ -1,0 +1,15 @@
+E:\Project\homework\Task_Sem5\bin\Debug\net6.0\Task_Sem5.exe
+E:\Project\homework\Task_Sem5\bin\Debug\net6.0\Task_Sem5.deps.json
+E:\Project\homework\Task_Sem5\bin\Debug\net6.0\Task_Sem5.runtimeconfig.json
+E:\Project\homework\Task_Sem5\bin\Debug\net6.0\Task_Sem5.dll
+E:\Project\homework\Task_Sem5\bin\Debug\net6.0\Task_Sem5.pdb
+E:\Project\homework\Task_Sem5\obj\Debug\net6.0\Task_Sem5.csproj.AssemblyReference.cache
+E:\Project\homework\Task_Sem5\obj\Debug\net6.0\Task_Sem5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\homework\Task_Sem5\obj\Debug\net6.0\Task_Sem5.AssemblyInfoInputs.cache
+E:\Project\homework\Task_Sem5\obj\Debug\net6.0\Task_Sem5.AssemblyInfo.cs
+E:\Project\homework\Task_Sem5\obj\Debug\net6.0\Task_Sem5.csproj.CoreCompileInputs.cache
+E:\Project\homework\Task_Sem5\obj\Debug\net6.0\Task_Sem5.dll
+E:\Project\homework\Task_Sem5\obj\Debug\net6.0\refint\Task_Sem5.dll
+E:\Project\homework\Task_Sem5\obj\Debug\net6.0\Task_Sem5.pdb
+E:\Project\homework\Task_Sem5\obj\Debug\net6.0\Task_Sem5.genruntimeconfig.cache
+E:\Project\homework\Task_Sem5\obj\Debug\net6.0\ref\Task_Sem5.dll
